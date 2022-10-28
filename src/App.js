@@ -1,4 +1,3 @@
-import './App.css';
 import { useState } from 'react';
 import TaskList from './TaskList';
 import TaskHead from './TaskHead';
